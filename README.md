@@ -1,5 +1,5 @@
 
-# Data viz portifolio
+# Data visualization portfolio
 
 This repository contains a sellected collection of visualizations that I
 created for academic, self learning, and hobby purposes.
@@ -74,7 +74,9 @@ publications. More details about this project can be found in [Fitipaldi
 & Franks (Hum Mol Gen,
 2022)](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddac245/6747418?login=false)
 
-The source code for the dashboard is openly available
+The application was written in R using the shiny package and it is
+hosted at shinyapps.io. The source code for the dashboard is openly
+available
 [here](https://github.com/hugofitipaldi/gwas_mining/tree/main/restults_page).
 
 The dashboard is available
