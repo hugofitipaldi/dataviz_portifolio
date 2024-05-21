@@ -108,3 +108,25 @@ European Association for the Study of Diabetes (EASD),
 W.K., Erion, K., Florez, J.C. et al. (Diabetologia, 2020)</a>.
 
 <img src="images/PM_diabetes.png" width="100%" />
+
+### **Selected Figures from publications**
+
+- [Ahmad, A., et al. (Commun Med,
+  2024)](https://www.nature.com/articles/s43856-023-00429-z)
+
+<img src="images/sankey.png" width="100%" />
+
+- [Tobias, D.K., et al. (Nat Med,
+  2023)](https://www.nature.com/articles/s41591-023-02502-5)
+
+<img src="images/consensus.png" width="100%" />
+
+- [Kanbour S, et al. (Journal of Diabetes Science and Technology,
+  2024)](https://journals.sagepub.com/doi/10.1177/19322968231223726)
+
+<img src="images/heatmap.png" width="100%" />
+
+- [Fitipaldi & Franks (Hum Mol Gen,
+  2022)](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddac245/6747418?login=false)
+
+<img src="images/GA.png" width="100%" />
