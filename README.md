@@ -74,7 +74,11 @@ diabetes: a systematic review and meta-analysis.” This study conducted a
 comprehensive review and meta-analysis to identify potentially novel
 prognostic factors that may improve CVD risk prediction in T2D. The
 study was led by Abrar Ahmad et al., and published in Communications
-Medicine in 2024. The full paper can be accessed here.
+Medicine in 2024. The full paper can be accessed
+[here](https://www.nature.com/articles/s43856-023-00429-z).
+
+The source code for the dashboard is openly available
+[here](https://github.com/hugofitipaldi/T2DCVD_Prognostics).
 
 <img src="images/CVD_review.png" width="100%" />
 
